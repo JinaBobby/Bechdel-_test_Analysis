@@ -23,3 +23,4 @@ What This Project Explores
 One of the most interesting discoveries from this analysis is that more than half of the movies released between 1970 and 2013 actually pass the Bechdel Test.
 The percentage of movies passing the Bechdel Test has steadily increased over time, with noticeable improvement beginning in the late 20th century and continuing into the 2000s.
 passing the Bechdel Test does not guarantee strong or progressive representation—many films pass by meeting the criteria in minimal or incidental ways.
+<img width="887" height="495" alt="image" src="https://github.com/user-attachments/assets/1e3a8e4d-293e-4008-b72f-a54f030194df" />
