@@ -12,10 +12,10 @@ However, when a movie fails, it often reveals deeper narrative gaps, such as:
 
 What This Project Explores
 
-*How many movies pass vs fail the Bechdel Test overall
-*How Bechdel pass rates have changed over time
-*The most common reasons movies fail (and what that says about storytelling choices)
-*Whether common industry beliefs hold up under data, such as:
+ * How many movies pass vs fail the Bechdel Test overall
+ * How Bechdel pass rates have changed over time
+ * The most common reasons movies fail (and what that says about storytelling choices)
+ * Whether common industry beliefs hold up under data, such as:
   “Female-driven movies don’t sell”
   “Representation hurts profitability”
   “Inclusive films are niche
